@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/navbar';
 import Card from './components/card';
+import ButtonX from './components/button';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
     <div className="container">
       <Card/>
       <Card/> 
+      {/* <ButtonX/> */}
       </div>
       </>
   );
