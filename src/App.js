@@ -9,6 +9,7 @@ function App() {
     <>
     <Navbar/>
     <div className="container">
+      <p>test</p>
       <Card/>
       <Card/> 
       {/* <ButtonX/> */}
